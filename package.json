@@ -1,0 +1,23 @@
+{
+  "name": "bytegrad-betterphotos",
+  "version": "1.0.0",
+  "description": "Project from ByteGrad \"Professional CSS\" course.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDamneDx/bytegrad-betterphotos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xDamneDx/bytegrad-betterphotos/issues"
+  },
+  "homepage": "https://github.com/xDamneDx/bytegrad-betterphotos#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
